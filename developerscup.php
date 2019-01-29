@@ -18,7 +18,7 @@
         $(document).ready(function(){
             $('#DeveloperCup').modal('show');
         });
-    </script-->
+    </script hello word test-->
 </head>
 
 <body>
@@ -41,7 +41,7 @@
     <!-- ./Main Navigation -->
     <nav class="navbar navbar-expand-md main-nav navigation fixed-top sidebar-left">
         <div class="container"><button class="navbar-toggler" type="button"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button> <a href="developers.html#main" class="navbar-brand">
-            <img src="img/favicon.ico" alt="Dashcore" class="logo logo-sticky d-block d-md-none"> 
+            <img src="img/favicon.ico" alt="Dashcore" class="logo logo-sticky d-block d-md-none">
             <img src="img/logo-big1.png" alt="Dashcore" class="logo d-none d-md-block"></a>
             <div class="collapse navbar-collapse ml-auto" id="main-navbar">
                 <div class="sidebar-brand"><a href="index.html"><img src="img/logo.png" alt="Dashcore Template" class="logo"></a></div>
@@ -147,14 +147,14 @@
                             </a>
                             <p class="mt-4">If you are a representative of your college programming club, and interested to increase coding culture in your college, then come register and work with us!</p>
                         </div>
-                      
+
                     </div>
                 </div>
             </div>
             </center>
         </section><!-- ./Counters -->
-        
-        
+
+
         <section class="singl-testimonial shadow">
             <div class="container-fluid py-0">
                 <div class="row align-items-center gradient gradient-54 color-1">
