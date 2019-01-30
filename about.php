@@ -41,7 +41,7 @@
     <!-- ./Main Navigation -->
     <nav class="navbar navbar-expand-md main-nav navigation fixed-top sidebar-left">
         <div class="container"><button class="navbar-toggler" type="button"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button> <a href="developers.html#main" class="navbar-brand">
-            <img src="img/favicon.ico" alt="Dashcore" class="logo logo-sticky d-block d-md-none"> 
+            <img src="img/favicon.ico" alt="Dashcore" class="logo logo-sticky d-block d-md-none">
             <img src="img/logo-big1.png" alt="Dashcore" class="logo d-none d-md-block"></a>
             <div class="collapse navbar-collapse ml-auto" id="main-navbar">
                 <div class="sidebar-brand"><a href="index.html"><img src="img/logo.png" alt="Dashcore Template" class="logo"></a></div>
@@ -58,7 +58,7 @@
                                         </a><a class="dropdown-item text-wrap" href="cs.html">
                                             <p class="bold my-0">Game Development</p>
                                             <p class="my-0 small">The developers' place</p>
-                                        </a><a class="dropdown-item text-wrap" href="cs.html">
+                                        </a><a class="dropdown-item text-wrap" href="cmachine-learning.php">
                                             <p class="bold my-0">Machine Learning</p>
                                             <p class="my-0 small">The developers' place</p>
                                         </a><a class="dropdown-item text-wrap" href="cs.html">
@@ -177,6 +177,6 @@
                 </div>
             </div>
         </section><!-- ./Dashboard Included -->
-        
+
     </main><!-- ./Footer - Four Columns -->
     <?php include('footer.php');?>
